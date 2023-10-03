@@ -1,0 +1,220 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/ivan/Desktop/AAFF KOSELUGO/Empaquetado/Carpeta AAFF-DETAILER-V2/Document fonts/AdobeFnt23.lst
+FileLength:5650
+FileModTime:713258625
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AndaleMono
+FamilyName:Andale Mono
+StyleName:Regular
+MenuName:Andale Mono
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Andale Mono
+WritingScript:Roman
+OutlineFileName:/Users/ivan/Desktop/AAFF KOSELUGO/Empaquetado/Carpeta AAFF-DETAILER-V2/Document fonts/Andale Mono.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:109700
+FileModTime:708516509
+NameArray:0,Mac,4,Andale Mono
+NameArray:0,Win,1,Andale Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCFranklinGothicStd-BkCdIt
+FamilyName:ITC Franklin Gothic Std
+StyleName:Book Condensed Italic
+MenuName:ITC Franklin Gothic Std Bk Cd
+StyleBits:1
+WeightClass:400
+WidthClass:3
+AngleClass:1
+FullName:ITC Franklin Gothic Std Book Condensed Italic
+WritingScript:Roman
+OutlineFileName:/Users/ivan/Desktop/AAFF KOSELUGO/Empaquetado/Carpeta AAFF-DETAILER-V2/Document fonts/ITCFranklinGothicStd-BkCdIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29276
+FileModTime:77102774
+NameArray:0,Mac,18,ITC Franklin Gothic Std Bk CdIt
+NameArray:0,Mac,4,ITC Franklin Gothic Std Book Condensed Italic
+NameArray:0,Win,1,ITC Franklin Gothic Std Bk Cd
+NameArray:0,Win,16,ITC Franklin Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCFranklinGothicStd-Book
+FamilyName:ITC Franklin Gothic Std
+StyleName:Book
+MenuName:ITC Franklin Gothic Std Book
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:ITC Franklin Gothic Std Book
+WritingScript:Roman
+OutlineFileName:/Users/ivan/Desktop/AAFF KOSELUGO/Empaquetado/Carpeta AAFF-DETAILER-V2/Document fonts/ITCFranklinGothicStd-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28360
+FileModTime:77102774
+NameArray:0,Mac,4,ITC Franklin Gothic Std Book
+NameArray:0,Win,1,ITC Franklin Gothic Std Book
+NameArray:0,Win,16,ITC Franklin Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCFranklinGothicStd-BookIt
+FamilyName:ITC Franklin Gothic Std
+StyleName:Book Italic
+MenuName:ITC Franklin Gothic Std Book
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:ITC Franklin Gothic Std Book Italic
+WritingScript:Roman
+OutlineFileName:/Users/ivan/Desktop/AAFF KOSELUGO/Empaquetado/Carpeta AAFF-DETAILER-V2/Document fonts/ITCFranklinGothicStd-BookIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30516
+FileModTime:74456272
+NameArray:0,Mac,18,ITC Franklin Gothic Std Book It
+NameArray:0,Mac,4,ITC Franklin Gothic Std Book Italic
+NameArray:0,Win,1,ITC Franklin Gothic Std Book
+NameArray:0,Win,16,ITC Franklin Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCFranklinGothicStd-Demi
+FamilyName:ITC Franklin Gothic Std
+StyleName:Demi
+MenuName:ITC Franklin Gothic Std Book
+StyleBits:2
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:ITC Franklin Gothic Std Demi
+WritingScript:Roman
+OutlineFileName:/Users/ivan/Desktop/AAFF KOSELUGO/Empaquetado/Carpeta AAFF-DETAILER-V2/Document fonts/ITCFranklinGothicStd-Demi.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29228
+FileModTime:74456272
+NameArray:0,Mac,4,ITC Franklin Gothic Std Demi
+NameArray:0,Win,1,ITC Franklin Gothic Std Book
+NameArray:0,Win,16,ITC Franklin Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCFranklinGothicStd-DemiIt
+FamilyName:ITC Franklin Gothic Std
+StyleName:Demi Italic
+MenuName:ITC Franklin Gothic Std Book
+StyleBits:3
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:ITC Franklin Gothic Std Demi Italic
+WritingScript:Roman
+OutlineFileName:/Users/ivan/Desktop/AAFF KOSELUGO/Empaquetado/Carpeta AAFF-DETAILER-V2/Document fonts/ITCFranklinGothicStd-DemiIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30568
+FileModTime:74456272
+NameArray:0,Mac,18,ITC Franklin Gothic Std Demi It
+NameArray:0,Mac,4,ITC Franklin Gothic Std Demi Italic
+NameArray:0,Win,1,ITC Franklin Gothic Std Book
+NameArray:0,Win,16,ITC Franklin Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCFranklinGothicStd-Med
+FamilyName:ITC Franklin Gothic Std
+StyleName:Medium
+MenuName:ITC Franklin Gothic Std Med
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:ITC Franklin Gothic Std Medium
+WritingScript:Roman
+OutlineFileName:/Users/ivan/Desktop/AAFF KOSELUGO/Empaquetado/Carpeta AAFF-DETAILER-V2/Document fonts/ITCFranklinGothicStd-Med.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29084
+FileModTime:77102774
+NameArray:0,Mac,18,ITC Franklin Gothic Std Med
+NameArray:0,Mac,4,ITC Franklin Gothic Std Medium
+NameArray:0,Win,1,ITC Franklin Gothic Std Med
+NameArray:0,Win,16,ITC Franklin Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/ivan/Desktop/AAFF KOSELUGO/Empaquetado/Carpeta AAFF-DETAILER-V2/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:184404
+FileModTime:74456302
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+

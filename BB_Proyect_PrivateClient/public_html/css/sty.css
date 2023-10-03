@@ -1,0 +1,130 @@
+
+/*  Author     : Producer-BB*/
+
+html,body {
+    /*width: 100%;
+	height:auto;*/
+	max-width: 2224px;
+    /*max-height: 1668px;*/
+}
+
+.bgnd2{
+    background-image: url("../img_2/BGNAV1.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.bgnd_btnd_port1{
+    background-image: url("../img_2/portada_bgc_botonderecho.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.navbar{
+    /*height: 159px;*/
+}
+.btones{
+ width:50%;
+}
+  #overlay, #overlayone, #overlaytwo, #overlaythree, #overlayfour{
+  position: fixed;
+  display: none;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(102, 21, 72, 0.7);
+  backdrop-filter: blur(10px);
+  z-index: 2;
+  cursor: pointer;
+}
+
+#text{
+  position: absolute;
+  top: 54%;
+  left: 50%;
+  width: 100%;
+  transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+}
+#text2{
+  position: absolute;
+  top: 92%;
+  left: 8%;
+  width: 5%;
+  transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+}
+
+#text3{
+  position: absolute;
+  top: 50%;
+  left: 45%;
+  width: 80%;
+  transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+}
+
+.dropdown-item:hover {
+    background-color: transparent;
+}
+
+.dropup-content {
+  display: block; 
+}
+
+/*Flip car pag 29 mejorascvrs koselugo*/
+
+.flip-card {
+  background-color: transparent; 
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.flip-card.hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+.flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  background-color: transparent;
+ 
+}
+
+.flip-card-back {
+   background-color: transparent;
+  transform: rotateY(180deg);
+}
+
+.dropdown-item {
+    width:100%;
+	height:auto;
+  }
+.dropdown-item img{
+width:295px;
+}
